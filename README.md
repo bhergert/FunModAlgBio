@@ -1,5 +1,5 @@
 # Fundamental Models and Algorithms in Bioinformatics
-Volker Brendel:  <vbrendel@indiana.edu>
+Volker Brendel:  <vbrendel@indiana.edu>  
 Daniel Standage: <daniel.standage@gmail.com>
 
 This is the code repository for the "Fundamental Models and Algorithms" class, offered at Indiana University under the course listing CSCI B490.
